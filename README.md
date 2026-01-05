@@ -99,8 +99,8 @@ If you propose changes that affect multiple repositories, open an issue in this 
 
 ## Roadmap and Governance
 
-- Roadmap: see `docs/ROADMAP.md` (recommended to create)
-- Governance: see `docs/GOVERNANCE.md` (recommended to create)
+- Roadmap: see `docs/ROADMAP.md` 
+- Governance: see `docs/GOVERNANCE.md` 
 
 ---
 
@@ -122,7 +122,7 @@ Please open an Issue with:
 ## License
 
 This portal repository is intended primarily for documentation and indexing.  
-Choose a license consistent with your ecosystem policy (commonly MIT or Apache-2.0).
+MIT.
 
 ---
 
