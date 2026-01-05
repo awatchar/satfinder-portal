@@ -1,4 +1,5 @@
 # SatFinder Portal
+![Logo](/docs/images/logo.png)
 
 SatFinder is an education-oriented satellite and radio-communication initiative that brings hands-on telecom and space-technology learning into schools and field labs. This repository (**satfinder-portal**) serves as the **central index** to all SatFinder GitHub repositories, including build guides, simulators, and calibration/tracking laboratories.
 
