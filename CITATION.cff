@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Amasiri"
+  given-names: "Watchara"
+  orcid: "https://orcid.org/0000-0002-8750-8127"
+title: "satfinder-portal"
+version: 1.0.0
+date-released: 2026-01-05
+url: "https://github.com/awatchar/satfinder-portal"
